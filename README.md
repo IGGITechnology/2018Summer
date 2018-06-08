@@ -21,7 +21,7 @@
 ### 注意：所有任务须提交到 [2018Summer](https://github.com/IGGITechnology/2018Summer) 仓库
 
 ## 任务一: Hello Git & GitHub & C/C++
-- 了解什么是 [Git](https://git-scm.com/) 以及什么是 [Github](github.com (https://github.com/))
+- 了解什么是 [Git](https://git-scm.com/) 以及什么是 [Github](https://github.com/)
 - 学会使用Git并在GitHub上创建个人仓库
 - 学习C/C++的基本语法
 - [点击查看详细说明](task1)
