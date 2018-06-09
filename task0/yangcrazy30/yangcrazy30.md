@@ -11,3 +11,8 @@
 ## Q3:GitHub 的 Logo 是什么动物？
 
 **A:Octocat 章鱼猫**
+
+## Q4:梗
+
+**A1:linux=linux is not unix**
+**A2:php是世界最好的编程语言（是个鬼啊）**
