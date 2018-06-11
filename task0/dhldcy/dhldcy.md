@@ -4,7 +4,7 @@
 ### CVS, SVN, Mercurial
 ***
 ## **2.Git 分了哪几个区？**
-###  a.工作区（working directory） 
+     a.工作区（working directory） 
      b.暂缓区（stage index） 
      c.历史记录区（history） 
      [百度的]（https://www.cnblogs.com/liujiaq/p/5670069.html）
