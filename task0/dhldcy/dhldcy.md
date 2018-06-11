@@ -3,11 +3,11 @@
 ## **1.与 Git 同类型的工具有？**
 ### CVS, SVN, Mercurial
 ***
-## **2.Git 分了哪几个区？**
+## **2.Git 分了哪几个区？**[百度的]（https://www.cnblogs.com/liujiaq/p/5670069.html）
      a.工作区（working directory） 
      b.暂缓区（stage index） 
      c.历史记录区（history)
-[百度的]（https://www.cnblogs.com/liujiaq/p/5670069.html）
+
 ***
 ## **3.GitHub 的 Logo 是什么动物？
    章鱼猫吧可能   
