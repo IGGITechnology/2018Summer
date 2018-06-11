@@ -7,7 +7,7 @@
     a.工作区（working directory） 
     b.暂缓区（stage index） 
     c.历史记录区（history)
-[百度的]（http://www.cnblogs.com/liujiaq/p/5670069.html）
+[百度的]（http://cnblogs.com/liujiaq/p/5670069.html）
 [1](http://baidu.com)
 ***
 ## **3.GitHub 的 Logo 是什么动物？
