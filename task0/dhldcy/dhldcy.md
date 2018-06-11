@@ -9,7 +9,7 @@
     c.历史记录区（history)
 [百度的](http://www.cnblogs.com/liujiaq/p/5670069.html)
 ***
-## **3.GitHub 的 Logo 是什么动物？
+## **3.GitHub 的 Logo 是什么动物？**
    章鱼猫吧可能   
    ~~猫头克苏鲁~~
 ***
