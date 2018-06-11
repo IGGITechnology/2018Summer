@@ -7,7 +7,7 @@
      a.工作区（working directory） 
      b.暂缓区（stage index） 
      c.历史记录区（history） 
-     [百度的]（https://www.cnblogs.com/liujiaq/p/5670069.html）
+   [百度的]（https://www.cnblogs.com/liujiaq/p/5670069.html）
 ***
 ## **3.GitHub 的 Logo 是什么动物？
    章鱼猫吧可能
@@ -16,6 +16,6 @@
 ***
 ## **4.列举2-3个关于程序猿/程序媛的梗**
     a.程序猿都是好人  
-     ~~爱是一道光~~
+   ~~爱是一道光~~
     b.杀个程序猿祭天
     c.半路改需求等死吧
