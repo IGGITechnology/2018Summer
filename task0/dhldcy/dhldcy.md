@@ -7,7 +7,7 @@
     a.工作区（working directory） 
     b.暂缓区（stage index） 
     c.历史记录区（history)
-[2]（http://baidu.com）
+[百度]（）
 ***
 ## **3.GitHub 的 Logo 是什么动物？
    章鱼猫吧可能   
