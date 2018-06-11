@@ -7,8 +7,7 @@
     a.工作区（working directory） 
     b.暂缓区（stage index） 
     c.历史记录区（history)
-[百度的] （https://www.cnblogs.com/liujiaq/p/5670069.html）
-[跳到自己博客列表](http://write.blog.csdn.net/postlist)
+[百度的]（https://www.cnblogs.com/liujiaq/p/5670069）
 ***
 ## **3.GitHub 的 Logo 是什么动物？
    章鱼猫吧可能   
