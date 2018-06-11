@@ -8,6 +8,7 @@
     b.暂缓区（stage index） 
     c.历史记录区（history)
 [百度的](http://www.cnblogs.com/liujiaq/p/5670069.html)
+[baidu](http://baidu.com)
 ***
 ## **3.GitHub 的 Logo 是什么动物？
    章鱼猫吧可能   
