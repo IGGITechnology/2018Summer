@@ -24,6 +24,8 @@
 - 了解什么是 [Git](https://git-scm.com/) 以及什么是 [Github](https://github.com/)
 - 学会使用Git并在GitHub上创建个人仓库
 - 学习C/C++的基本语法
+- 学习Qt5.x框架
+- 学习opencv3.x图像处理库
 - [点击查看详细说明](task0)
 
 ## 联系我们
